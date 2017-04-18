@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Publications
+title: 論文目録（2013.1.13 現在）
 ---
 
-
-論文目録（2013.1.13 現在）
 
 大阪大学大学院薬学研究科　高木達也
 
 
- １）報文（(1)等の丸括弧付き頭数字のものは速報、[4]等の角括弧は資料、ノート等、
-    他はフルペーパー）
+### 報文
+
+(1)等の丸括弧付き頭数字のものは速報、[4]等の角括弧は資料、ノート等、他はフルペーパー
 
 - Nuclear Magnetic Resonance Studies of Acid-Base Association in Solution. Ⅱ.
     Association between Ketones and Tris(di-pivaloylmethanato)europium.
@@ -719,7 +718,7 @@ title: Publications
     doi: 10.1248/bpb.b12-00843
 
 
-２）総説
+### 総説
 
 -  薬学領域における計算化学的、及び数理化学的アプローチ
     高木達也
@@ -828,7 +827,7 @@ title: Publications
     高木達也
     CICSJ Bull. vol.30(3), 40-41 (2012).
 
-３）ソフトウェア開発
+### ソフトウェア開発
 
 - 半経験的分子軌道法プログラム、ＭＮＤＯの改良と整備
     佐々木喜男、高木達也、田中明人、都倉亮道
@@ -887,7 +886,7 @@ title: Publications
     大阪大学大型計算機センターニュース、29(1), 101-106 (1999).
 
 
-４）単行本
+### 単行本
 
 - 「医薬品設計」〜考え方と進め方〜
     佐々木喜男、高木達也、藤原英明、植田郁男、川木秀子
@@ -901,7 +900,7 @@ title: Publications
     日本分析化学会編、2012
 
 
-５）その他
+### その他
 
 - 邪馬台国の年代論に関する小考
     −回帰分析の立場から−
