@@ -7,4 +7,4 @@ markdown: kramdown
 sass:
   load_paths:
     - _sass
-    - bootstrap-sass/assets/stylesheets
+    - _lib/bootstrap-sass/assets/stylesheets
