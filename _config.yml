@@ -5,6 +5,7 @@ url: "http://pharmacometrics.github.io"
 
 markdown: kramdown
 sass:
+  style: compressed
   load_paths:
     - _sass
     - _lib/bootstrap-sass/assets/stylesheets
