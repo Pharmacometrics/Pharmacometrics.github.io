@@ -30,3 +30,7 @@ $on-palm: 600px;
 @import "base";
 @import "layout";
 @import "syntax-highlighting";
+
+p {
+    text-indent: 1em;
+}
