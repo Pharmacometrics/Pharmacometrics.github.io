@@ -1,15 +1,11 @@
 ---
 layout: page
-title: 論文目録（2013.1.13 現在）
+title: 論文目録（更新中）
 ---
 
+# 論文
 
-大阪大学大学院薬学研究科　高木達也
-
-
-### 報文
-
-(1)等の丸括弧付き頭数字のものは速報、[4]等の角括弧は資料、ノート等、他はフルペーパー
+***
 
 - Nuclear Magnetic Resonance Studies of Acid-Base Association in Solution. Ⅱ.
     Association between Ketones and Tris(di-pivaloylmethanato)europium.
@@ -710,12 +706,53 @@ title: 論文目録（2013.1.13 現在）
     Norihito Kawashita, Ran Inoue, Teruo Yasunaga, Tatsuya Takagi
     Drug Information Journal, in press.
 
-- Statistical evaluation of single-photon emission computed
-    tomography image using smoothed bootstrap method.
-    Megumi Tsukamoto, Asuka Hatabu, Yoshitake Takahashi, Hiroshi Matsuda,
-    Kousuke Okamoto, Noriyuki Yamashita, Tatsuya Takagi
-    Bull. Pharm. Biol., in press 2013.
-    doi: 10.1248/bpb.b12-00843
+- Statistical Evaluation of Single-Photon Emission Computed 
+	Tomography Image Using Smoothed Bootstrap Method
+	Megumi Tsukamoto, Asuka Hatabu, Yoshitake Takahashi, 
+	Hiroshi Matsuda, Kousuke Okamoto, Noriyuki Yamashita, Tatsuya Takagi
+	Biological and Pharmaceutical Bulletin, 36(3), 417-424 (2013).
+	doi: 10.1248/bpb.b12-00843
+
+- Meta-analysis of the risk of upper gastrointestinal hemorrhage with 
+	combination therapy of selective serotonin reuptake inhibitors and 
+	non-steroidal anti-inflammatory drugs.
+	Yoshinari Oka, Kousuke Okamoto, Norihito Kawashita, Yuko Shirakuni, Tatsuya Takagi
+	Biological Pharmaceutical Bulletin 37(6), 947-953 (2014).
+
+- Pharmacophore Modeling and Molecular Docking Studies of 
+	potential inhibitors to E6 PBM-PDZ from Human Papilloma Virus (HPV).
+	Yu-Shi Tian, Norihito Kawashita, Yuki Arai, Kousuke Okamoto, Tatsuya Takagi
+	Bioinformation 11(8), 401–406 (2015).
+
+- Quantitative Structure–Activity Relationship Model for 
+	the Fetal–Maternal Blood Concentration Ratio of Chemicals in Humans
+	Tomoyuki Takaku, Hirohisa Nagahori, Yoshihisa Sogame, Tatsuya Takagi
+	Biological Pharmaceutical Bulletin 38(6), 930-934 (2015).
+
+- Search for Low Molecular Weight Compounds that Inhibit Human Immunodeficiency Virus Type 1 Replication.
+	Chris Verathamjamras, Yu-Shi Tian, Norihito Kawashita, Kousuke Okamoto, Teruo Yasunaga, Kazuyoshi Ikuta, 
+	Kazushi Motomura, Naokazu Takeda, Tatsuya Takagi, Masanori Kameoka, 
+	J. Infect. Dis. Ther.，3(3), 1-8 (2015).
+
+- Novel Concepts for Drug Hypersensitivity Based on 
+	the Use of Long-Time Scale Molecular Dynamic Simulation
+	Takahiro Murai, Norihito Kawashita, Yu-Shi Tian, Tatsuya Takagi
+	Journal of Pharmaceutics 9520361, 1–6 (2016).
+
+- In silico analysis of enantioselective binding of immunomodulatory imide drugs to cereblon
+	Takahiro Murai, Norihito Kawashita, Yu-Shi Tian, Tatsuya Takagi
+	SpringerPlus，5(1) 1122-1128, (2016).
+
+
+- Classification of Alzheimer’s disease and Parkinson’s disease 
+	using a support vector machine and probabilistic outputs
+	Asuka Hatabu, Masafumi Harada, Yoshitake Takahashi, Shunsuke Watanabe, 
+	Kenya Sakamoto, Kousuke Okamoto, Norihito Kawashita, Yu-Shi Tian, Tatsuya Takagi, 
+	Chem-Bio Informatics Journal，17 巻 (2017) p.112-124, (2017).
+
+- Mordred: A molecular descriptor calculator
+ 	Hirotomo Moriwaki, Yu-Shi Tian, Norihito Kawashita, Tatsuya Takagi, 
+ 	Journal of Cheminformatics，in press, (2018).
 
 
 ### 総説
@@ -885,6 +922,17 @@ title: 論文目録（2013.1.13 現在）
     高木達也
     大阪大学大型計算機センターニュース、29(1), 101-106 (1999).
 
+- Recent Advances in the Development of Small-Molecule Compounds Targeting HIV-1 gp41 as Membrane Fusion Inhibitors 
+	Norihito Kawashita, Yu-Shi Tian, U. Chandimal de Silva, Kousuke Okamoto, Tatsuya Takagi
+	Mini-Reviews in Organic Chemistry，in press, 2012.02, Review Papers 
+
+- Novel Anti-Human Immunodeficiency Virus Compounds with Activity against Cyclophilin A: A Look Back
+	Yu-Shi Tian, Norihito Kawashita, Masanori Kameoka, Tatsuya Takagi
+	Journal of Prevention & Infection Control，Vol.2 No.2:12, 1-5 (2016).
+
+- Dengue Virus and Its Inhibitors: A Brief Review.
+	Yu-Shi Tian, Yi Zhou, Tatsuya Takagi, Masanori Kameoka, Norihito Kawashita
+	Chemical and Pharmaceutical Bulletin，66(3), 191-206 (2018).
 
 ### 単行本
 
@@ -950,3 +998,167 @@ title: 論文目録（2013.1.13 現在）
 - 【連載第二回】回帰分析による古代天皇の年代論
     高木達也
     季刊「邪馬台国」, in press (2013).
+
+***
+
+# 学会発表 (Since 2012)
+
+***
+
+- サポートベクターマシンによる疾患分類
+	○幡生あすか, 原田雅史, 高橋由武, 渡辺俊輔, 山下典之, 伊藤世士洋, 岡本晃典, 高木達也
+	第34回情報科学討論会 2011.11 (日本・長崎)
+- Disease classification based on brain SPECT imaging data using support vector machine.
+	○A. Hatabu, M. Harada, Y. Takahashi, S. Watanabe, N. Yamashita, Y. Ito, K. Okamoto, T. Takagi
+	16th European Symposium on Radiopharmacy and Radiopharmaceuticals 2012.04 (France, Nantes)
+
+- Earthquake Effects on the Patients' Compliance with the Risk Management Program for Thalidomide Therapy in Japan
+    Tatsuya Takagi, ○Yuko Shirakuni, Chizuko Hattori, Teruyoshi Kubo, Norihito Kawashita, Nobuyasu Yamaguchi, and Masao Nasu
+    Asia Pacific Confernce on National Medicines Policies 2012.05 (Australia, Sydney).
+
+- Compliance Survey for Thalidomide Safety Use (Part5)：Changes of Correct-Response Probabilities after Revision of the RMS
+    ○Yuko Shirakuni, Chizuko Hattori, Nobuyasu Yamaguchi, Teruyoshi Kubo,Norihito Kawashita, Tatsuya Takagi, Masao Nasu
+    ICPE2012 2012.08 (SPAIN, Barcelona).
+
+- オープンアクセス可能な広範な化合物に対応する​高等動物への毒性予測システムの検討
+    ○寺本泉瑠, 宇根琢, 岡本晃典, 川下理日人, 高木達也
+    構造活性相関シンポジウム 2012.11 (日本・愛知岡崎).
+
+- 薬学部生と既卒者がともに学習できる薬学統計学のeラーニングサイトの構築について
+    ○宮崎恭行, 村岡俊郎, 岡本晃典, 川下理日人, 臼井達也, 上島悦子, 高木達也
+    薬学会（第133年会） 2013.03 (日本・神奈川横浜).
+
+- TERMS (Thalidomide Education and Risk Management System) time-series data analyses and patients’ awareness level. - Can change point detection methods be applied? -
+    ○Teruyoshi Kubo, Tatsuya Takagi, Yuko Shirakuni, Norihito Kawashita, Chizuko Hattori, Masao Nasu
+    FIP2013 2013.09 (Ireland, Dublin).
+
+- In Silico screening for anti-HPV agents using docking studies
+	○Tatsuya TAKAGI and Norihito KAWASHITA
+	2nd International Conference on Medicinal Chemistry & Computer Aided Drug Designing 2013.10 (USA, LasVegas)
+
+- 部分グラフを用いた市販化学物質の藻類に対する毒性予測
+	○森脇寛智, 岡本晃典, 川下理日人, 高木達也
+	第36回情報化学討論会 2013.11 (日本・筑波)
+
+- データマイニングの医薬品化学への応用
+	○高木達也
+	近畿化学協会コンピュータ化学部会公開講演会（第89回例会）2014.02 (日本・大阪)
+
+- SPECT脳血流画像に基づく機械学習を用いた疾患判別
+	阪本健也, ○幡生あすか, 岡本晃典, 川下理日人, 高木達也
+	薬学会（第134年会）2014.03 (日本・熊本)
+
+- Development of in Silico Prediction Model on Environmental Fate of Chemical Substances
+	Taku Une, Kousuke Okamoto, Daiki Miyazaki, Norihito Kawashita, ○Tatsuya Takagi
+	PSWC2014 2014.04 (Australia, Melbourne)
+
+- Development of Combinatorial Regression Method for Avoiding Chance Correlations
+	Tomoko Hatta, Tamaki Takaya, ○Tatsuya Takagi , Norihito Kawashita, Kousuke Okamoto
+	PLS2014 2014.05 (France, Paris)
+
+- 医師、薬剤師によるサリドマイド製剤安全管理手順（TERMS®）の評価​アンケートに対する時系列共起ネットワーク解析
+	○服部祥子, 白國優子, 山口進康, 服部千鶴子, 加藤平太, 久保輝佳, 高木達也, 那須正夫​
+	日本社会薬学会2014 2014.09 (日本・東京)
+
+- Prediction of antisense efficacy using sequence motifs and neural network
+	○Mako Kitani, Norihito Kawashita, Tsuyoshi Yamamoto, Maki Yamashita, Kousuke Okamoto, Tatsuya Takagi, Satoshi Obika
+	International Chemometrics Research Meeting (ICRM) 2014 2014.09 (Netherlands)
+
+- ドッキングスタディとボルツマン分布を組み合わせた薬剤耐性変異評価法の開発
+	○上田智弘, 川下理日人, 岡本晃典,高木達也
+	第37回情報化学討論会 2014.11 (日本・愛知豊橋)
+
+- In Silico screening for anti-HPV agents using docking studies
+	○Tatsuya TAKAGI and Norihito KAWASHITA
+	3rd International Conference on Medicinal Chemistry & Computer Aided Drug Designing 2014.12 (USA, San Francisco)
+
+- TERMS®(サリドマイド製剤安全管理手順）データの時系列解析
+	高木 達也, 〇加藤 平太, 白國 優子,​服部 千鶴子, 那須 正夫
+	薬学会（第135年会）2015.03 (日本・兵庫神戸)
+	
+- SPECT脳血流画像に基づく機械学習を用いた疾患判別予測モデルの構築
+	阪本健也, ○幡生あすか, 高木達也, 岡本晃典, 川下理日人
+	薬学会（第135年会）2015.03 (日本・兵庫神戸)	
+
+- A Novel Combinatorial Regression Method for Avoiding Chance Correlations
+	〇Tatsuya Takagi, Norihito Kawashita, Tomoko Hatta, Tamaki Takaya, Yu-Shi Tian, Kousuke Okamoto
+	XV Chemometrics in Analytical Chemistry 2015.06 (China, Changsha)
+
+- Novel insights into enantioselective binding of IMiDs to cereblon using in silico docking simulations
+	○Takahiro MURAI, Norihito KAWASHITA, Yushi TIAN, Tatsuya TAKAGI
+	第43回構造活性相関シンポジウム 2015.09 (日本・新潟)
+
+- 脳血流画像に基づく機械学習を用いた疾患予測モデルの検討
+	○幡生あすか, 岡本晃典, 高木達也
+	生命医薬情報学連合大会 2015 年大会 2015.10 (日本・京都)
+
+- Screening novel HIV-1 inhibitors targeting cyclophilin A by structure-based and ligand-based in silico study
+	Norihito Kawashita, Yu-Shi Tian, Chris Verathamjamras, Kousuke Okamoto, Teruo Yasunaga, Kazuyoshi Ikuta, Masanori Kameoka, ○Tatsuya Takagi
+	4th International Conference on Medicinal Chemistry & Computer Aided Drug Designing 2015.11 (Atlanta, USA)
+
+- SPECT脳血流画像に基づく機械学習を用いた疾患判別予測モデルの構築
+	阪本健也, ○幡生あすか, 高木達也, 岡本晃典
+	第55回日本核医学会学術総会 2015.11 (日本・東京)
+
+- mRNA structure prediction targeting antisense oligonucleotides (AONs)
+	○Maki Yamashita, Norihito Kawashita, Tsuyoshi Yamamoto, Kousuke Okamoto, Tatsuya Takagi, Satoshi Obika
+	PACIFICHEM2015 2015.12 (USA, Honolulu)
+
+- 状態空間モデルによるサリドマイド製剤安全管理手順（TERMS®）における患者対象調査の時系列解析
+	○加藤平太,白國 優子,川下理日人,田雨時, 高木達也,那須正夫
+	日本社会薬学会2016 2016.08 (日本・大阪高槻)
+
+- フラグメント分子軌道（ＦＭＯ）法を用いたタンパク質-低分子阻害剤間相互作用解析
+	○橋本悠司, 川下理日人, 森脇寛智,田雨時, 高木達也
+	第 14 回次世代を担う若手のためのフィジカル・ファーマフォーラム(PPF2016) 2016.08 (日本・大阪)
+
+- アバカビル過敏反応メカニズムに関する in silico 研究
+	村井 隆寛， 川下 理日人， ○田 雨時， 高木 達也
+	第 14 回次世代を担う若手のためのフィジカル・ファーマフォーラム(PPF2016) 2016.08 (日本・大阪)
+
+- 分子記述子計算ソフトウェアmordredの開発
+	○森脇寛智, 川下理日人, 田雨時,  高木達也
+	第39回ケモインフォマティクス討論会 2016.09 (日本・静岡浜松)
+
+- 分子軌道計算によるスペクトルの精度の検討
+	○諏訪志典, 川嶋裕介, 川下理日人,藤居由基, 田雨時, 藤岡弘道, 有澤光弘, 高木達也
+	第39回ケモインフォマティクス討論会 2016.09 (日本・静岡浜松)
+
+- 化合物の光分解性予測モデルの構築に関する基礎的検討
+	○松山裕美, 川下理日人, 田雨時, 岡本晃典, 高木達也
+	第39回ケモインフォマティクス討論会 2016.09 (日本・静岡浜松)
+
+- HTSによる抗デングウイルスNS2B/NS3プロテアーゼ阻害剤化合物の探索
+	〇松田 仁志, 川下 理日人, 田 雨時, 高木 達也
+	第64回日本ウイルス学会学術集会2016 2016.10 (日本・北海道)
+
+- Logistic Regression Analysis for Predicting Hydrolysability using Regularization Techniques
+	Tomoko Hatta, Norihito Kawashita, Yu-Shi Tian, ○Tatsuya Takagi
+	5th International Conference on Biometrics & Biostatistics 2016.10 (USA, Houston)
+
+- Analyses of protein – ligand interaction of BACE1 and its ligands using fragment molecular orbital method
+	○Yuji HASHIMOTO, Norihito KAWASHITA, Hirotomo MORIWAKI, Yu-Shi TIAN, Tatsuya TAKAGI
+	第44回構造活性相関シンポジウム 2016.11 (日本・京都)
+
+- Constructing prediction models of adverse drug reactions using machine learning
+	○Hiroaki Moriuchi, Yu-Shi Tian, Hirotomo Moriwaki, Satoshi Aoki, Nobuki  Takayama, Norihito Kawashita, Takayuki Hibi, Tatsuya Takagi
+	第44回構造活性相関シンポジウム 2016.11 (日本・京都)
+
+- In silico analysis of enantioselective binding of IMiDs to cereblon
+	Takahiro MURAI, Norihito KAWASHITA, Yu-Shi TIAN, ○ Tatsuya TAKAGI
+	5th International Conference on Medicinal Chemistry & Computer Aided Drug Designing and Drug Delivery 2016.12 (USA, Phoenix)
+
+- Evaluation of Novel Anti-Dengue Candidates Using In Silico and In Vitro Approaches
+	○Yu-Shi TIAN, Hitoshi MATSUDA, Xinzhe LIU, Norihito KAWASHITA, Tatsuya TAKAGI
+	3rd International Symposium for Medicinal Sciences 2017.03 (日本・宮城仙台)
+
+- 活性酸素種によるアミノ酸残基への酸化反応機構の量子化学計算による定量化
+	〇川嶋裕介、川下理日人、高木達也、井川聡、北野勝久
+	第64回応用物理学会春季学術講演会 2017.03 (日本・神奈川)
+
+- プラズマ処理水中の過硝酸の分解に関する量子化学計算
+	〇川嶋裕介、川下理日人、高木達也、井川聡、北野勝久
+	第64回応用物理学会春季学術講演会 2017.03 (日本・神奈川)
+
+
+
